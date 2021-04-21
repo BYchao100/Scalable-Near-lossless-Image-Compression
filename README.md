@@ -16,7 +16,6 @@ The model `ckp_003` can be downloaded from [Baidu Netdisk](https://pan.baidu.com
 Please note: the current implementation is not optimized for speed. Residual compression is slow. We are working on the fast version :computer:.
 
 ## Citation
-If this code is helpful for you, please cite:
 
 ```
 @article{Bai_2021_SNIC,
