@@ -18,7 +18,7 @@ Please note: the current implementation is not optimized for speed. Residual com
 ## Citation
 
 ```
-@article{Bai_2021_SNIC,
+@InProceedings{Bai_2021_SNIC,
   title={Learning Scalable $\ell_\infty$-constrained Near-lossless Image Compression via Joint Lossy Image and Residual Compression},
   author={Bai, Yuanchao and Liu, Xianming and Zuo, Wangmeng and Wang, Yaowei and Ji, Xiangyang},
   journal={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
